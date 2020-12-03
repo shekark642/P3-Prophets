@@ -1,5 +1,6 @@
 # Card game
 Shekar, Ryan, Max, and Irfan
+
 Casino Themed Website with Card Games like War and Blackjack with Animations and Probability of Winning Displayed
 
 ## War
