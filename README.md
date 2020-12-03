@@ -1,5 +1,5 @@
 # Card game
-Repository for trimester 2 P4Birds. Members are Shekar, Ryan, Irfan, and Max
+Shekar, Ryan, Max, and Irfan
 Casino Themed Website with Card Games like War and Blackjack with Animations and Probability of Winning Displayed
 
 ## War
