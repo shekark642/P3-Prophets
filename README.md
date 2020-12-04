@@ -1,6 +1,6 @@
 # Card game
 shekark642(Shekar), ryanshay18(Ryan), MaxVukovich(Max), and OpticStranger(Irfan)
-[Shekar](https://github.com/shekark642)
+
 Casino Themed Website with Card Games like War and Blackjack with Animations and Probability of Winning Displayed
 
 ## War
