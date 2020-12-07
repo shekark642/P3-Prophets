@@ -1,7 +1,7 @@
 # Card game
 Contributed by shekark642([Shekar](https://github.com/shekark642)), ryanshay18([Ryan](https://github.com/ryanshay18)), MaxVukovich([Max](https://github.com/MaxVukovich)), and OpticStranger([Irfan](https://github.com/OpticStranger))
 
-[Project Plan](https://docs.google.com/document/d/1Nq75atZIfA2RrfW4srFa7otY4vGe2uMvYm_lhiyLZ0k/edit) and (Scrum Board)[https://github.com/shekark642/P4Birds/projects/1]
+[Project Plan](https://docs.google.com/document/d/1Nq75atZIfA2RrfW4srFa7otY4vGe2uMvYm_lhiyLZ0k/edit) and [Scrum Board](https://github.com/shekark642/P4Birds/projects/1)
 
 Casino Themed Website with Card Games like War and Blackjack with Animations and Probability of Winning Displayed
 
