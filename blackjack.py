@@ -96,3 +96,56 @@ card10 = [ diamond10, club10, heart10, spade10, \
            diamondJ, clubJ, heartJ, spadeJ, \
            diamondQ, clubQ, heartQ, spadeQ, \
            diamondK, clubK, heartK, spadeK ]
+
+def getAmt(card):
+    ''' Returns the amount the card is worth.
+E.g. Ace is default 11. 10/Jack/Queen/King is 10.'''
+    if card in cardA:
+        return 11
+    elif card in card2:
+        return 2
+    elif card in card3:
+        return 3
+    elif card in card4:
+        return 4
+    elif card in card5:
+        return 5
+    elif card in card6:
+        return 6
+    elif card in card7:
+        return 7
+    elif card in card8:
+        return 8
+    elif card in card9:
+        return 9
+    elif card in card10:
+        return 10
+    else:
+        print ('getAmt broke')
+        exit()
+
+def genCard(cList, xList):
+    '''Generates an card from cList, removes it from cList, and appends it to xList.
+Returns if card is Ace and the card itself.'''
+    cA = 0
+    card = random.choice(cList)
+    cList.remove(card)
+    xList.append(card)
+    if card in cardA:
+        cA = 1
+    return card, cA
+
+def initGame(cList, uList, dList):
+    '''Generates two cards for dealer and user, one at a time for each.
+Returns if card is Ace and the total amount of the cards per person.'''
+    userA = 0
+    dealA = 0
+    card1, cA = genCard(cList, uList)
+    userA += cA
+    card2, cA = genCard(cList, dList)
+    dealA += cA
+    card3, cA = genCard(cList, uList)
+    userA += cA
+    card4, cA = genCard(cList, dList)
+    dealA += cA
+    return getAmt(card1) + getAmt(card3), userA, getAmt(card2) + getAmt(card4), dealA
