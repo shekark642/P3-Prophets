@@ -1,16 +1,24 @@
 <!DOCTYPE html> <!-- this file will contain the nav bar and other stuff -->
 <html>
 
-<header>
-    <nav>
-        <ul>
-            <li><a href="#">Home</a></li>
-            <li><a class="active" href="#">Tutorials</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Newsletter</a></li>
-            <li><a href="#">Contact</a></li>
-        </ul>
-</header>
+<!-- Navigation Bar from bootstrap -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<meta charset="utf-8">
+<link href="style.css" rel="stylesheet" type="style/css" />
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">Card Game Website</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation" >
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+            <a class="nav-link active" href="/">Home <span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="/blackjack">Blackjack</a>
+            <a class="nav-link" href="/leaderboards">Leaderboards</a>
+        </div>
+    </div>
+</nav>
 
 
 <!-- Scripts -->
