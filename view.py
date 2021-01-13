@@ -4,7 +4,7 @@ from flask import Flask, flash, redirect, render_template, request, session, abo
 app = Flask(__name__)
 
 # connects default URL of server to a python function
-@app.route('/home')
+@app.route('/')
 def index():
     return render_template("index.html")
 
