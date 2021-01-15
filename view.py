@@ -1,11 +1,5 @@
 from flask import Flask, flash, redirect, render_template, request, session, abort, jsonify, url_for, __init__
 
-
-
-
-import os
-#yurrrrrr
-#yolo
 # create a Flask instance
 app = Flask(__name__)
 
@@ -21,6 +15,10 @@ def leaderboards():
 @app.route('/blackjack')
 def blackjack():
     return render_template("blackjack.html")
+
+@app.route('/war')
+def war():
+    return render_template("war.html")
 
 if __name__ == "__main__":
     # runs the application on the repl development server

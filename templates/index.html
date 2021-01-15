@@ -1,6 +1,5 @@
 <!DOCTYPE HTML>
 {% extends "base.html" %}
-
 {% block body %}
 
 <html lang="english">
@@ -14,9 +13,8 @@
 </head>
 <body class="is-preload">
 
-
 <div>
-    <img src= "../static/APCOMPSCIwebpage.png" style = "position: fill; width: 1535px; height: 660px" alt=HELLO>
+    <img src= "../static/APCOMPSCIwebpage.png" style = "position: fill; width: 1520px; height: 660px" alt=HELLO>
 
 
     <div class="bottom-right">Period 4 CSP </div>
@@ -35,7 +33,7 @@
                             <h3>War</h3>
                         </header>
                         <p>War is a simple card game, typically played by two players using a standard playing card deck — and often played by children. There are many variations, including the German 32-card variant Tod und Leben</p>
-                        <form method="get" action="https://github.com/shekark642/P4Birds"> <button type="submit">Visit Game</button> </form>
+                        <form method="get" action="/war"> <button type="submit">Visit Game</button> </form>
                     </div>
                 </section>
                 <section>
@@ -45,7 +43,7 @@
                             <h3>Blackjack</h3>
                         </header>
                         <p>Blackjack, formerly also Black Jack and Vingt-Un, is the American member of a global family of banking games known as Twenty-One, whose relatives include the British game of Pontoon and the European game, Vingt-et-Un</p>
-                        <form method="get" action="https://github.com/shekark642/P4Birds"> <button type="submit">Visit Game</button> </form>
+                        <form method="get" action="/blackjack"> <button type="submit">Visit Game</button> </form>
 
                     </div>
                     <div class="row justify-content-center" style="margin-top: 1vw;">
@@ -61,7 +59,7 @@
                             <h3>Future Games</h3>
                         </header>
                         <p>Future games may include games like poker or patience, and will be added to the website as soon as development is finished</p>
-                        <form method="get" action="https://github.com/shekark642/P4Birds"> <button type="submit">Visit List</button> </form>
+                        <form method="get" action="/home"> <button type="submit">Visit List</button> </form>
                     </div>
                 </section>
 
@@ -77,7 +75,7 @@
         <p style= "color: white;">Prizes can be earned by players once they win enough in-game currency, and if they are logged into an account. Prizes can be earned by these players if they choose to purchase anything from the website store</p>
     </div>
     <p> </p>
-    <h1 style = "color:white ; height:140px ; margin-left:auto ; margin-right:auto ; width:1000px ; font-size:20px;" ><form method="get" action=#.html> <button type="submit">Go to leaderboard</button> </form> </h1>
+    <h1 style = "color:white ; height:140px ; margin-left:auto ; margin-right:auto ; width:1000px ; font-size:20px;" ><form method="get" action="/leaderboards"> <button type="submit">Go to leaderboard</button> </form> </h1>
 
 </section>
 
@@ -231,6 +229,7 @@
   margin: 4px 20px;
   cursor: pointer;
 }
+
 </style>
 
 
