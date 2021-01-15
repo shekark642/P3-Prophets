@@ -20,6 +20,7 @@ def blackjack():
 def war():
     return render_template("war.html")
 
+
 if __name__ == "__main__":
     # runs the application on the repl development server
     app.run(debug=True)
