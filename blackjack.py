@@ -125,7 +125,7 @@ E.g. Ace is default 11. 10/Jack/Queen/King is 10.'''
         exit()
 
 def genCard(cList, xList):
-    '''Generates an card from cList, removes it from cList, and appends it to xList.
+    '''Generates a card from cList, removes it from cList, and appends it to xList.
 Returns if card is Ace and the card itself.'''
     cA = 0
     card = random.choice(cList)
@@ -163,11 +163,11 @@ def main():
     pygame.init()
     screen = pygame.display.set_mode((640, 480))
     pygame.display.set_caption('Blackjack')
-    font = pygame.font.SysFont('arial', 15)
+    font = pygame.font.SysFont('', 15)
     hitTxt = font.render('Hit', 1, black)
     standTxt = font.render('Stand', 1, black)
     restartTxt = font.render('Restart', 1, black)
-    gameoverTxt = font.render('GAME OVER', 1, white)
+    gameoverTxt = font.render('GAME OVER MATE', 1, white)
     userSum, userA, dealSum, dealA = initGame(ccards, userCard, dealCard)
 
     #Fill Background
@@ -208,6 +208,7 @@ def main():
                 #when player stands, the dealer plays
                 stand = True
                 while dealSum <= userSum and dealSum < 17:
+                    #Dealer Hits
                     card, cA = genCard(ccards, dealCard)
                     dealA += cA
                     dealSum += getAmt(card)
