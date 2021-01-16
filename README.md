@@ -1,3 +1,5 @@
+### Runtime Link http://104.2.84.172/
+
 ## 4 Big Tickets Assignment
 | Name | Big Ticket | Scrum Board/Github Code Artifcat |
 | ------------- | ----------- | ----------- |
@@ -11,8 +13,6 @@ Contributed by shekark642([Shekar](https://github.com/shekark642)), ryanshay18([
 [Project Plan](https://docs.google.com/document/d/1Nq75atZIfA2RrfW4srFa7otY4vGe2uMvYm_lhiyLZ0k/edit) and [Scrum Board](https://github.com/shekark642/P4Birds/projects/1)
 
 Casino Themed Website with Card Games like War and Blackjack with Animations and Probability of Winning Displayed
-
-## Runtime Link http://104.2.84.172/
 
 ## Blackjack
 We created a simple blackjack card game which gives the user a probability of winning the match. The player will be playing against a AI dealer that is fully working. The game will be played just as how most regular blackjack games are. As well, the wins and losses are displayed on the screen to keep track of the player's winnings and losings.
