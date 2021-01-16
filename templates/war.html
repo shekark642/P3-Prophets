@@ -8,29 +8,29 @@
 <title>War!</title>
 </head>
 <body>
-<h1 id='header'>WAR!</h1>
-<span class="btn-start">START</span>
-<span class="btn-flip">FLIP!</span>
+<h1 id='header' style="color:black;">WAR!</h1>
+<span class="btn-start" >START</span>
+<span class="btn-flip" style="color:black;" >FLIP!</span>
 <div id="decision"></div>
 <br />
-<div id="userPoints"></div>
+<div id="userPoints" style="color:black;"></div>
 <br />
-<div id="computerPoints"></div>
+<div id="computerPoints" style="color:black;"></div>
 <br />
 <div id= "user_deck">
-    <span id="user-name">User</span>
+    <span id="user-name" style="color:black;">User</span>
     </br>
     <img id= "deck-img" src="static/images/deck-cards-red.png">
     <div id="user-card-flipped"></div>
 </div>
 <div id="here"></div>
 <div id= "computer_deck">
-    <span id="computer-name">Computer</span>
+    <span id="computer-name" style="color:black;" >Computer</span>
     </br>
     <img id= "deck-img" src="static/images/deck-cards-blue.png">
     <div id="computer-card-flipped"></div>
 </div>
-<span class="btn-playagain">Play Again?</span>
+<span class="btn-playagain" style="color:black;" >Play Again?</span>
 
 <script src="{{url_for('static',filename='war.js') }}"></script>
 <script src="https://code.jquery.com/jquery-2.1.4.js"></script>
