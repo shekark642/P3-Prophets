@@ -22,3 +22,13 @@ We are going to create a card game where the user can play war against an ai bot
 |  Big Idea 3: Algorithms and Programming | 30-35% | Usage of old ideas such as Jinja and simple html tasks and new ideas. |
 |  Big Idea 4: Computer Systems and Network | 11-15% | Further invest into deployment and GET and POST that relates to newly learned information.  |
 |  Big Idea 5: Impact of Computing | 21-26% |  Usage of a game that shows defined data like old game wins and probability and is user friendly so individuals can access and play easy.. |
+
+
+| Name | Big Ticket | Scrum Board/Github Code Artifcat |
+| ------------- | ----------- | ----------- |
+|  Ahmad Nasim | Black Game embed on Website | Plans for multiple animations for game such as board, cards, and the dealer through the usage of HTML, CSS, and Javascript.  |
+|  Shekar Krishnamoorthy| Create War Game | Probability and user defined data in the entirety of the game. Leaderboard:using data of scores of users with profiles.  |
+|  Ryan Shay | Embed War on Website| Usage of old ideas such as Jinja and simple html tasks and new ideas. |
+|  Max Vukovich | Deployment of Website| Further invest into deployment and GET and POST that relates to newly learned information.  |
+
+ 
