@@ -1,4 +1,4 @@
-$(document).ready(function() {
+$( document ).ready(function() {
 
 	// reset button will reset the table
 	$('#reset').click(function() {
@@ -16,7 +16,6 @@ $(document).ready(function() {
         playGame();
     });
 
-
     $('#hit').click(function() {
 		playerHand.hitMe("p");
 		result = firstResultCheck();
@@ -28,7 +27,6 @@ $(document).ready(function() {
 			return;
 		}
     });
-
 
     $('#stand').click(function() {
     	while(dealerHand.score() < 17){

@@ -14,7 +14,8 @@ def leaderboards():
 
 @app.route('/blackjack')
 def blackjack():
-    return render_template("blackjack.html")
+    return render_template('blackjack.html')
+
 
 @app.route('/war')
 def war():

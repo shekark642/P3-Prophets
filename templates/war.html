@@ -3,8 +3,8 @@
 {% extends "base.html" %}
 {% block body %}
 
-<link rel="stylesheet" href="static/war.css">
-<link href='https://fonts.googleapis.com/css?family=Passion+One' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="static/war.css">
+<link href='https://fonts.googleapis.com/css?family=Passion+One' rel='stylesheet' type='text/css' >
 <title>War!</title>
 </head>
 <body>
@@ -32,7 +32,7 @@
 </div>
 <span class="btn-playagain">Play Again?</span>
 
-<script src="war.js"></script>
+<script src="{{url_for('static',filename='war.js') }}"></script>
 <script src="https://code.jquery.com/jquery-2.1.4.js"></script>
 <script>
 	$(document).ready(function() {

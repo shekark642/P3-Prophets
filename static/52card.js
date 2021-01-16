@@ -1,9 +1,7 @@
-//What I made here is that we have card1-52.   Example:
 //console.log(card[49]),  { suite: 'clubs', rank: 'jack', value: 10 }
 //console.log(card[49].rank), jack
 //console.log(card[49].value), 10
 
-//I still don't know how to put the image property yet inline with Chris' images
 
 var card = {};
 var rank = ['2','3','4','5','6','7','8','9','10','jack','queen','king','ace'];

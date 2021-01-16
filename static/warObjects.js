@@ -212,7 +212,7 @@ player = {
 var player1, player2, computer, person, computerPlayer;  
 
 // just a convenience variable so can reference the above variables as players[0], players[1]
-// might nnot use these. 
+// might not use these.
 var player = [player1, player2];  
 	// or whatever the player variables are called
 	// this is a convenience so could access the players as
@@ -337,7 +337,7 @@ function winnerThisHand(player1,player2){
 	return ;	// winner of this hand, or null if a tie
 };
 
-// If there is a tie, isWar needs to be set to true (and numCardsToFlip changes)
+// If there is a tie, is War needs to be set to true (and numCardsToFlip changes)
 // each time there is a winner, and cards get transfered to a player, this will be reselt to false
 // This will determine how the cards are flipped 
 //	ie, !isWar: flip 1 card. isWar: each add a card to the "spoils of war", and then flip a card. or flip 4 cards, or whatever
