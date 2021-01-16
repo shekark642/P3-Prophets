@@ -1,7 +1,7 @@
 ### Runtime Link http://104.2.84.172/
 
 ## Scrum Team Cards/Ticket
-Our 4 goals were War Game, Blackjack Game, Deployment, and Embed both games into HTML. All goals were [met](https://github.com/shekark642/P4Birds/projects/1#column-11994163).
+Our 4 goals were War Game, Blackjack Game, Deployment, and Embed both games into HTML. All goals were [met](https://github.com/shekark642/P4Birds/projects/1#column-11994163). Each individual completed their task fully but was a bit sloppy so Max(Scrum Leader) decided to knock -1 off. The sloppiness mostly refers to routing of the images of the cards and for deployment, the background on the war game would load in our Intellij's local host but not the deployment so -1 for Max. 
 ## 4 Big Tickets Assignment
 | Name | Big Ticket | Scrum Board/Github Code Artifcat |
 | ------------- | ----------- | ----------- |
