@@ -25,7 +25,7 @@ We are going to create a card game where the user can play war against an ai bot
 
 | Name | Big Ticket | Scrum Board/Github Code Artifcat |
 | ------------- | ----------- | ----------- |
-|  Ahmad Nasim | Black Game embed on Website | The Big Ticket is the blackjack code I created from python, however we need to transfer it to javascript to be able to run it in html. In order to play the game, you would click 'start' 'hit' or'stand' and the goal is to get 21 or more than the dealer. ([Github:] (https://github.com/shekark642/P4Birds/blob/main/templates/blackjack.html)) |
+|  Ahmad Nasim | Black Game embed on Website | The Big Ticket is the blackjack code I created from python, however we need to transfer it to javascript to be able to run it in html. In order to play the game, you would click 'start' 'hit' or'stand' and the goal is to get 21 or more than the dealer. [Github] (https://github.com/shekark642/P4Birds/blob/main/templates/blackjack.html)
 |  Shekar Krishnamoorthy| Create War Game | Probability and user defined data in the entirety of the game. Leaderboard:using data of scores of users with profiles.  |
 |  Ryan Shay | Embed War on Website| Usage of old ideas such as Jinja and simple html tasks and new ideas. |
 |  Max Vukovich | Deployment of Website| Further invest into deployment and GET and POST that relates to newly learned information.  |
