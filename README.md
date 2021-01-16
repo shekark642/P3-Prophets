@@ -26,6 +26,6 @@ We are going to create a card game where the user can play war against an ai bot
 | Name | Big Ticket | Scrum Board/Github Code Artifcat |
 | ------------- | ----------- | ----------- |
 |  Ahmad Nasim | Black Game embed on Website | The Big Ticket is the blackjack code I created from python, however we need to transfer it to javascript to be able to run it in html. In order to play the game, you would click 'start' 'hit' or'stand' and the goal is to get 21 or more than the dealer. Github: https://github.com/shekark642/P4Birds/blob/main/templates/blackjack.html
-|  Shekar Krishnamoorthy| Create War Game | Created War game using python, war game works by clicking 'flip' Github: https://github.com/shekark642/P4Birds/blob/main/templates/war.html   |
-|  Ryan Shay | Embed War on Website| The ticket of actually putting the war game into the website, Github: https://github.com/shekark642/P4Birds/blob/main/static/war.js |
+|  Shekar Krishnamoorthy| Embed War on Website| Embedded the actual war game Ryan Shay made by using API called Transcrypt which turns python code into javascript in order to be ran on a website Github: https://github.com/shekark642/P4Birds/blob/main/templates/war.html   |
+|  Ryan Shay | Create War Game | Created the War game with python (later turned into Javascript) Click 'Flip' to play when on runtime Github: https://github.com/shekark642/P4Birds/commit/f270a6989529d6b2f4d7125c2f006a939cfa1884 |
 |  Max Vukovich | Deployment of Website| Further invest into deployment and GET and POST that relates to newly learned information.  |
