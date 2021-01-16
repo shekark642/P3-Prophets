@@ -9,7 +9,7 @@
 <!--<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatx:700">-->
 <link href="https://fonts.googleapis.com/css?family=Merriweather:700" rel="stylesheet">
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" defer></script>
-<script type="text/javascript" src="{{url_for('static',filename='21game.js') }}" defer></script>
+<script type="text/javascript" src="{{ url_for('static',filename='21game.js') }}" defer></script>
 
 <body>
     <header>
@@ -40,10 +40,10 @@
                 </ul>
             </div>
             <!--<div class="score"></div>-->
+
         </div>
     </div>
 </div>
-
 <div class="pscore"></div>
 <div class="gameConsole" style="visibility: hidden;">
     <a href="javascript:void(0);" id="hit">Hit!</a>
