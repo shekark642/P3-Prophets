@@ -1,5 +1,7 @@
 ### Runtime Link http://104.2.84.172/
 
+## Scrum Team Cards/Ticket
+Our 4 goals were War Game, Blackjack Game, Deployment, and Embed both games into HTML. All goals were [met](https://github.com/shekark642/P4Birds/projects/1#column-11994163).
 ## 4 Big Tickets Assignment
 | Name | Big Ticket | Scrum Board/Github Code Artifcat |
 | ------------- | ----------- | ----------- |
