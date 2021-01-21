@@ -47,7 +47,12 @@ class RegisterForm(FlaskForm):
 # connects default URL of server to a python function
 @app.route('/')
 def index():
-    return render_template("index.html")
+    #Gets the api data from web
+    x = r.get("https://uselessfacts.jsph.pl/random.json?language=en")
+    data = j.loads(x.content) #Fetch rest api data
+    fact = data.get("text") #Fetch rest api data
+    return render_template("index.html", fact=fact) #Fetch rest api data
+
 
 @app.route('/leaderboards')
 def leaderboards():
