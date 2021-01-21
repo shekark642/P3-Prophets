@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+
+
+{% block body %}
+  <form class="form-signin" method="POST" action="signup">
+    <h2 class="form-signin-heading">REGISTER</h2>
+    <!-- IMPORTANT - GENERATES CSRF TOKEN -->
+    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}"/>
+	<div class="form-group required">
+    <label class="control-label form-labels" for="username">Username</label>
+    	<input class="form-input" id="username" name="username" required type="text" placeholder="Enter username" value=""> 
+  	</div>
+	<div class="form-group required">
+    <label class="control-label form-labels" for="email">Email</label>
+    	<input class="form-input" id="email" name="email" required type="text" placeholder="Enter email" value="">
+    </div>
+	<div class="form-group required">
+    <label class="control-label form-labels" for="password">Password</label>
+        <input class="form-input" id="password" name="password" required type="password" placeholder="Enter password" value="">
+ 	</div>
+    <p class="AHAC">Already have an account?<a class="AHAC" href="login"> Login.</a></p>
+    <center><button class="form-button" type="submit">Create</button></center>
+  </form>
+{% endblock %}
+
+
+<!--YERR-->
