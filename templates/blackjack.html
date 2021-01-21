@@ -3,8 +3,10 @@
 {% extends "base.html" %}
 {% block body %}
 
+<body style = "background-color:gray"></body>
+
 <title>BlackJack's Game</title>
-<link rel="stylesheet" type="text/css" href="static/reset.css">
+
 <link rel="stylesheet" type="text/css" href="static/main.css">
 <!--<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatx:700">-->
 <link href="https://fonts.googleapis.com/css?family=Merriweather:700" rel="stylesheet">
@@ -47,7 +49,7 @@
 <div class="pscore"></div>
 <div class="gameConsole" style="visibility: hidden;">
     <a href="javascript:void(0);" id="hit">Hit!</a>
-    <a href="javascript:void(0);" id="stand">Stand</a>
+    <a style="width: 72px; position:relative" href="javascript:void(0);" id="stand">Stand!</a>
 </div>
 
 {% endblock %}
