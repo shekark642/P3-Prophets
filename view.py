@@ -102,6 +102,10 @@ def logout():
 def war():
     return render_template("war.html")
 
+@app.route('/future')
+def future():
+    return render_template('futuregames.html')
+
 
 if __name__ == "__main__":
     app.run(debug=True)
