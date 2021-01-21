@@ -1,6 +1,6 @@
 def project1():
     date = "9/30"
-    name = "Car "
+    name = "poker "
     embedlink = "https://repl.it/@shekark642/username-password"
     linkout = "https://repl.it/@shekark642/username-password"
     info = {"date": date, "name": name, "embedlink": embedlink, "linkout": linkout}
@@ -8,7 +8,7 @@ def project1():
 
 def project2():
     date = "10/6"
-    name = "Username "
+    name = "uno "
     embedlink = "https://repl.it/@shekark642/username-password?lite=true"
     linkout = "https://repl.it/@shekark642/username-password"
     info = {"date": date, "name": name, "embedlink": embedlink, "linkout": linkout}
@@ -16,7 +16,7 @@ def project2():
 
 def project3():
     date = "10/23"
-    name = "Fortune "
+    name = "go fish "
     embedlink = "https://repl.it/@shekark642/fortune-teller?lite=true"
     linkout = "https://repl.it/@shekark642/fortune-teller"
     info = {"date": date, "name": name, "embedlink": embedlink, "linkout": linkout}
