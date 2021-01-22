@@ -107,7 +107,7 @@ function Card(suit, number){
 function revealDealerHand(hand){
 	var hand = hand.getHand();
 	for(i=0;i<hand.length;i++){
-		$('.dealers_cards ul').prepend('<li><a href="#"><img src="cards/' + cardFace(hand[i].getSuit(), hand[i].getNumber()) + '" /></a></li>');
+		$('.dealers_cards ul').prepend('<li><a href="#"><img src="static/cards/' + cardFace(hand[i].getSuit(), hand[i].getNumber()) + '" /></a></li>');
 	}
 }
 
@@ -119,12 +119,12 @@ var deal = function(whos){
 	}
 	// I would like to automate the correct div selection, but it dosn't work for now.
 	if(whos == "p"){
-		$('.players_cards ul').prepend('<li><img src="cards/' + cardFace(newCard.getSuit(), newCard.getNumber()) + '" /></a></li>');
+		$('.players_cards ul').prepend('<li><img src="static/cards/' + cardFace(newCard.getSuit(), newCard.getNumber()) + '" /></a></li>');
 	} else if(whos == "b" && countingDealersCards < 2) {
 		$('.dealers_cards').css("height", "");
-		$('.dealers_cards ul').prepend('<li><img src="cards/' + cardFace(newCard.getSuit(), newCard.getNumber()) + '" /></a></li>');
+		$('.dealers_cards ul').prepend('<li><img src="static/cards/' + cardFace(newCard.getSuit(), newCard.getNumber()) + '" /></a></li>');
 	} else if(whos == "b" && countingDealersCards == 2){
-		$('.dealers_cards ul').prepend('<li><img src="cards/back.jpg" /></a></li>');
+		$('.dealers_cards ul').prepend('<li><img src="static/cards/back.jpg" /></a></li>');
 	}
 	return newCard;
 };
