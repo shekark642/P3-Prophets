@@ -14,7 +14,7 @@ while (c < 52) {
 				suite: suite[s],
 				rank: rank[rv],
 				value: value[rv],
-				img: 'static/'+'images/' + rank[rv] + '_of_' + suite[s] + '.png',
+				img: 'images/' + rank[rv] + '_of_' + suite[s] + '.png',
 			}
 			c++;
 		}
