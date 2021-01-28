@@ -1,4 +1,4 @@
-from flask import Flask, render_template, redirect, url_for, request
+from flask import Flask, render_template, redirect, url_for, request, app
 from easteregg import easteregg_bp
 
 app.register_blueprint(easteregg_bp, url_prefix='/easteregg')

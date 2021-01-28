@@ -62,6 +62,10 @@ def leaderboards():
 def blackjack():
     return render_template('blackjack.html')
 
+@app.route('/easteregg1')
+def easteregg():
+    return render_template('easteregg.html')
+
 @app.route('/login', methods=['GET', 'POST'])
 def login():
     form = LoginForm()
