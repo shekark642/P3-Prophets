@@ -4,26 +4,36 @@
 <table class="styled-table">
     <thead>
     <tr>
-        <th>Name</th>
+        <th>Username</th>
         <th>Points</th>
+        <th>Place</th>
+
     </tr>
     </thead>
     <tbody>
     <tr>
         <td>Irfan</td>
         <td>6400</td>
+        <td>4</td>
+
     </tr>
     <tr class="active-row">
         <td>Ryan</td>
         <td>2540</td>
+        <td>3</td>
+
     </tr>
     <tr class="active-row">
         <td>Shekar</td>
         <td>8143</td>
+        <td>1</td>
+
     </tr>
     <tr class="active-row">
         <td>Max</td>
         <td>1120</td>
+        <td>4</td>
+
     </tr>
     </tbody>
 </table>
@@ -34,27 +44,31 @@
     margin: 25px 0;
     font-size: 0.9em;
     font-family: sans-serif;
-    min-width: 400px;
+    min-width: 500px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+
 }
 
 .styled-table thead tr {
-    background-color: #009879;
-    color: #ffffff;
+    background-color: turquoise;
+    color: black;
     text-align: left;
+    text-decoration: underline;
+    font-size: 20px
 }
 
 .styled-table th,
 .styled-table td {
-    padding: 12px 15px;
+    padding: 30px;
+
 }
 
 .styled-table tbody tr {
-    border-bottom: 1px solid #dddddd;
+    border-bottom: 1px solid turquoise;
 }
 
 .styled-table tbody tr:nth-of-type(even) {
-    background-color: #f3f3f3;
+    background-color: black;
 }
 
 .styled-table tbody tr:last-of-type {
