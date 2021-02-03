@@ -83,7 +83,7 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/shekark642/P4Birds/blob/main/static/images/card%20game%20main%20page.PNG">
+  <a href="https://raw.githubusercontent.com/shekark642/P4Birds/main/static/images/card%20game%20main%20page.PNG">
     <img src="static/images/card game main page.png" alt="Logo" width="80" height="80">
   </a>
   
