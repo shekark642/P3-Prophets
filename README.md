@@ -1,5 +1,5 @@
 
-[![Contributors][contributors-shield]](https://github.com/shekark642/P4Birds/graphs/contributors)
+[![Contributors](https://github.com/shekark642/P4Birds/graphs/contributors)
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
