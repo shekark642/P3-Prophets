@@ -38,8 +38,8 @@
 Use this runtime link to get started
 http://104.2.84.172/
 
-## Scrum Board
-[Scrum Board](https://github.com/shekark642/P4Birds/projects/1?fullscreen=true)
+## [Scrum Board](https://github.com/shekark642/P4Birds/projects/1?fullscreen=true)
+Our scrum board holds all of our progress throughout the creation period. We have "tickets" that track our process such as items to do, in progress, and done.
 
 <!-- CONTACT -->
 ## Contact
