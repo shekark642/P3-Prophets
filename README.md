@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">P4Birds</h3>
 
   <p align="center">
     project_description
