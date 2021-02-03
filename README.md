@@ -80,7 +80,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+![alt text](https://raw.githubusercontent.com/shekark642/P4Birds/main/static/images/card%20game%20main%20page.PNG)
 <br />
 <p align="center">
   <a href="https://raw.githubusercontent.com/shekark642/P4Birds/main/static/images/card%20game%20main%20page.PNG">
