@@ -10,20 +10,15 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="##Scrum Board">Scrum Board</a></li>
-        <li><a href="#installation">Games</a></li>
-      </ul>
+          <li><a href="#getting-started">Getting Started</a><li> 
+          <li><a href="##Scrum Board">Scrum Board</a></li>
+          <li><a href="#installation">Games</a></li>
+          <li><a href="#easter-egg">Easter Egg</a></li>
+          <li><a href="#contact">Contact</a></li>
+          <li><a href="#map-of-project-to-AP-CSP-requirements">Map of project to AP CSP requirements</a></li>
+      <ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#map-of-project-to-AP-CSP-requirements">Map of project to AP CSP requirements</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -45,20 +40,14 @@ Our scrum board holds all of our progress throughout the creation period. We hav
 ## Contact
 
 [Max Vukovich](https://github.com/MaxVukovich)
+
 [Shekar Krishnamoorthy](https://github.com/shekark642)
+
 [Ryan Shay](ryanshay18)
+
 [Ahmad Nasim](OpticStranger)
 
-Project Link: [https://github.com/shekark642/P4Birds](https://github.com/shekark642/P4Birds)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
+[Github Repository Link](https://github.com/shekark642/P4Birds)
 
 
 # Runtime Link http://104.2.84.172/
