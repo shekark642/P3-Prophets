@@ -44,12 +44,12 @@ Our scrum board holds all of our progress throughout the creation period. We hav
 <!-- CONTACT -->
 ## Contact
 
-[Max Vukovich](maxvukov@gmail.com)
-Shekar Krishnamoorthy
-Ryan Shay
-Ahmad Nasim
+[Max Vukovich](https://github.com/MaxVukovich)
+[Shekar Krishnamoorthy](https://github.com/shekark642)
+[Ryan Shay](ryanshay18)
+[Ahmad Nasim](OpticStranger)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/shekark642/P4Birds](https://github.com/shekark642/P4Birds)
 
 
 
