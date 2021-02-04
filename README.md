@@ -12,14 +12,17 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
           <li><a href="#getting-started">Getting Started</a><li> 
-          <li><a href="##Scrum Board">Scrum Board</a></li>
+          <li><a href="#scrum-board">Scrum Board</a></li>
           <li><a href="#games">Games</a></li>
           <li><a href="#easter-egg">Easter Egg</a></li>
           <li><a href="#contact">Contact</a></li>
-          <li><a href="#map-of-project-to-AP-CSP-requirements">Map of project to AP CSP requirements</a></li>
+          <li><a href="#map-of-project-to-ap-csp-requirements">Map of project to AP CSP requirements</a></li>
       <ul>
     </li>
   </ol>
+  </ol>
+    <li>
+       <a href="#previous-assignments">Previous Assignments</a>
 </details>
 
 
@@ -70,7 +73,7 @@ The Easter Egg on our project is a secret page that can be accessed from the sec
 |  Big Idea 4: Computer Systems and Network | 11-15% | Further invest into deployment and GET and POST that relates to newly learned information.  |
 |  Big Idea 5: Impact of Computing | 21-26% |  Usage of a game that shows defined data like old game wins and probability and is user friendly so individuals can access and play easy.. |
 
-
+# Previous Assignments
 
 ## Scrum Team Cards/Ticket
 Our 4 goals were War Game, Blackjack Game, Deployment, and Embed both games into HTML. All goals were [met](https://github.com/shekark642/P4Birds/projects/1#column-11994163). Each individual completed their task fully but was a bit sloppy so Max(Scrum Leader) decided to knock -1 off. The sloppiness mostly refers to routing of the images of the cards and for deployment, the background on the war game would load in our Intellij's local host but not the deployment so -1 for Max. The background for the War Game should look like [this](https://github.com/shekark642/P4Birds/issues/2#issue-787376063).
