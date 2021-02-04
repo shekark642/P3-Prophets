@@ -13,6 +13,7 @@
       <ul>
           <li><a href="#getting-started">Getting Started</a><li> 
           <li><a href="#scrum-board">Scrum Board</a></li>
+          <li><a href="#contributes">Contributes</a></li>
           <li><a href="#games">Games</a></li>
           <li><a href="#easter-egg">Easter Egg</a></li>
           <li><a href="#contact">Contact</a></li>
