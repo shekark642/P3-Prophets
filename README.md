@@ -2,7 +2,7 @@
 
 <!-- PROJECT LOGO -->
 <h3 align="center">Period 4 Birds</h3>
-<h3 align="center">[Runtime](http://104.2.84.172/)</h3>
+<h3 align="center">http://104.2.84.172/</h3>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -44,7 +44,10 @@ Our scrum board holds all of our progress throughout the creation period. We hav
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+[Max Vukovich](maxvukov@gmail.com)
+Shekar Krishnamoorthy
+Ryan Shay
+Ahmad Nasim
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
