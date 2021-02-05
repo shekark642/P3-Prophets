@@ -133,7 +133,7 @@ input, select, textarea {
 /* Typography */
 /* cyrillic-ext */
 @font-face {
-    font-family: 'EB Garamond';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-display: swap;
@@ -157,7 +157,7 @@ body {
     color: #444444; }
 
 body, input, select, textarea {
-    font-family: 'EB Garamond', Arial, Helvetica, sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 1rem;
     line-height: 1.65; }
@@ -249,14 +249,14 @@ blockquote {
 code {
     border-radius: 4px;
     border: solid 1px;
-    font-family: 'EB Garamond', monospace;
+    font-family: 'Poppins', sans-serif;
     font-size: 0.9rem;
     margin: 0 0.25rem;
     padding: 0.25rem 0.65rem; }
 
 pre {
     -webkit-overflow-scrolling: touch;
-    font-family: 'EB Garamond', monospace;
+    font-family: 'Poppins', sans-serif;
     font-size: 0.9rem;
     margin: 0 0 2rem 0; }
 pre code {
@@ -504,7 +504,7 @@ input[type="checkbox"] + label:before,
 input[type="radio"] + label:before {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
-    font-family: 'EB Garamond', monospace;
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: normal;
     text-transform: none !important; }
@@ -1746,7 +1746,7 @@ ul.actions.fit.stacked {
 .icon:before {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
-    font-family: 'EB Garamond', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: normal;
     text-transform: none !important; }
@@ -2471,7 +2471,7 @@ body:before {
 #header > nav > a[href="#menu"]:before {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
-    font-family: 'EB Garamond', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: normal;
     text-transform: none !important; }
@@ -2818,7 +2818,7 @@ menu input[type="submit"].primary:hover:active,
 #menu .close:before {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
-    font-family: 'EB Garamond', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: normal;
     text-transform: none !important; }
