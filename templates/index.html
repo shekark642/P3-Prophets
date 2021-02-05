@@ -1,7 +1,7 @@
+
+<!DOCTYPE HTML>
 {% extends "base.html" %}
 {% block body %}
-<!DOCTYPE HTML>
-
 
     <link rel="stylesheet" type="text/css" href="static/style.css"/>
 
@@ -77,13 +77,12 @@
     <div class="inner">
         <h2 style="color:black">Random Fact Generator</h2>
         <center><p style="color:black" class="fact-text facts">{{fact}}</p></center>
-        <button type="submit" onClick="window.location.reload()" style=background-color:black;color:black;width:100px;position:center>generate</button>
+        <button type="submit" onClick="window.location.reload()" style=background-color:black;color:black;width:110px;position:center>generate</button>
         </form>
 
         <h1 style = "color:white; height:140px ; margin-left:auto ; margin-right:auto ; width:1000px ; font-size:20px;" ><form method="get" action="/easteregg1"> <button type="submit">Easter Egg</button> </form> </h1>
 
     </div>
-    <p> </p>
 </section>
 
 <!-- Testimonials -->
@@ -161,6 +160,13 @@
 </footer>
 
 <style>
+.header{
+    margin:0px;
+}
+
+body {
+    padding-top: 0rem; }
+
 .container {
   position: relative;
   text-align: center;
