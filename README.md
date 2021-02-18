@@ -27,7 +27,7 @@
 </details>
 
 #  Async / Code, Code, Code Review
-This week we began working on the leaderboard database for our javascript games. We began experimenting with code such as Trish's Tech Talk code that was shared with us on Wednesday and began to see if we can incorperate and use samples of her code. We are also inspired to work on our database because the Crossover Event has helped us see what is needed to be worked on and they also told us to work on the leaderboards so we are inspired to show them progress. Click here to view samples.
+This week we began working on the leaderboard database for our javascript games. We began experimenting with code such as Trish's Tech Talk code that was shared with us on Wednesday and began to see if we can incorperate and use samples of her code. We are also inspired to work on our database because the Crossover Event has helped us see what is needed to be worked on and they also told us to work on the leaderboards so we are inspired to show them progress. [Click here to view samples](https://github.com/shekark642/P4Birds/issues/3#issue-811466457).
 
 As well as that, we have been working on preparing for the AP Test by filling out the AP CSP Requirements Reflection to assist us in preperation [here](https://docs.google.com/document/d/1D6bg7dFzYDKtqmCdGzZwiL_vwn_P35ku-pP1h785Jkc/edit).
 
