@@ -26,11 +26,6 @@
        <a href="#previous-assignments">Previous Assignments</a>
 </details>
 
-#  Async / Code, Code, Code Review
-This week we began working on the leaderboard database for our javascript games. We began experimenting with code such as Trish's Tech Talk code that was shared with us on Wednesday and began to see if we can incorperate and use samples of her code. We are also inspired to work on our database because the Crossover Event has helped us see what is needed to be worked on and they also told us to work on the leaderboards so we are inspired to show them progress. [Click here to view samples](https://github.com/shekark642/P4Birds/issues/3#issue-811466457).
-
-As well as that, we have been working on preparing for the AP Test by filling out the AP CSP Requirements Reflection to assist us in preperation [here](https://docs.google.com/document/d/1D6bg7dFzYDKtqmCdGzZwiL_vwn_P35ku-pP1h785Jkc/edit).
-
 # About The Project
 [![name](https://raw.githubusercontent.com/shekark642/P4Birds/main/static/images/card%20game%20main%20page.PNG)](http://104.2.84.172/)
 Once you are on the website, navigate to the menu at the top and head either to the Blackjack game or War game. For the blackjack game, select the Start button and then continue to play the game. If you do not remember the rules, scroll down to the blackjack section of this Readme. For the war game, select the Start button and continue to Flip. The first to 10 wins. If you do not remember the rules, scroll down to the war section of this Readme. If you would like to review our main page, we have other discriptions of the orgins of these games and other artifacts.
@@ -80,6 +75,10 @@ The Easter Egg on our project is a secret page that can be accessed from the sec
 
 # Previous Assignments
 
+##  Async / Code, Code, Code Review
+This week we began working on the leaderboard database for our javascript games. We began experimenting with code such as Trish's Tech Talk code that was shared with us on Wednesday and began to see if we can incorperate and use samples of her code. We are also inspired to work on our database because the Crossover Event has helped us see what is needed to be worked on and they also told us to work on the leaderboards so we are inspired to show them progress. [Click here to view samples](https://github.com/shekark642/P4Birds/issues/3#issue-811466457).
+
+As well as that, we have been working on preparing for the AP Test by filling out the AP CSP Requirements Reflection to assist us in preperation [here](https://docs.google.com/document/d/1D6bg7dFzYDKtqmCdGzZwiL_vwn_P35ku-pP1h785Jkc/edit).
 ## Scrum Team Cards/Ticket
 Our 4 goals were War Game, Blackjack Game, Deployment, and Embed both games into HTML. All goals were [met](https://github.com/shekark642/P4Birds/projects/1#column-11994163). Each individual completed their task fully but was a bit sloppy so Max(Scrum Leader) decided to knock -1 off. The sloppiness mostly refers to routing of the images of the cards and for deployment, the background on the war game would load in our Intellij's local host but not the deployment so -1 for Max. The background for the War Game should look like [this](https://github.com/shekark642/P4Birds/issues/2#issue-787376063).
 
