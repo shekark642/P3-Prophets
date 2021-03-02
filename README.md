@@ -29,7 +29,10 @@
 # MAJOR TECHINALS
 
 ## Deployment and Production 
-f
+- Created by Max
+Documents that assisted me in the Deployment and Production setup
+Deployment
+Production
 
 ## Javascript Games
 f
