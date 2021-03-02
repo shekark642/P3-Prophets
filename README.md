@@ -25,6 +25,7 @@
     <li>
        <a href="#previous-assignments">Previous Assignments</a>
 </details>
+
 # MAJOR TECHINALS
 
 ## Deployment and Production 
