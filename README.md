@@ -26,6 +26,29 @@
        <a href="#previous-assignments">Previous Assignments</a>
 </details>
 
+# MAJOR TECHINALS
+
+## Deployment and Production 
+f
+
+## Javascript Games
+f
+
+## Web Api
+f
+
+## Database
+f
+
+## HTML/CSS
+f
+
+## Easter Egg
+f
+
+## Leaderboards
+f
+
 # About The Project
 [![name](https://raw.githubusercontent.com/shekark642/P4Birds/main/static/images/card%20game%20main%20page.PNG)](http://104.2.84.172/)
 Once you are on the website, navigate to the menu at the top and head either to the Blackjack game or War game. For the blackjack game, select the Start button and then continue to play the game. If you do not remember the rules, scroll down to the blackjack section of this Readme. For the war game, select the Start button and continue to Flip. The first to 10 wins. If you do not remember the rules, scroll down to the war section of this Readme. If you would like to review our main page, we have other discriptions of the orgins of these games and other artifacts.
