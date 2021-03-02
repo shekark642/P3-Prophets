@@ -25,6 +25,28 @@
     <li>
        <a href="#previous-assignments">Previous Assignments</a>
 </details>
+# MAJOR TECHINALS
+
+## Deployment and Production 
+f
+
+## Javascript Games
+f
+
+## Web Api
+f
+
+## Database
+f
+
+## HTML/CSS
+f
+
+## Easter Egg
+f
+
+## Leaderboards
+f
 
 # About The Project
 [![name](https://raw.githubusercontent.com/shekark642/P4Birds/main/static/images/card%20game%20main%20page.PNG)](http://104.2.84.172/)
