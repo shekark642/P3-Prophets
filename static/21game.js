@@ -176,7 +176,7 @@ var finalResultCheck = function(){
 	var dS = dealerHand.score();
 	if(pS > 21){
       	if( dS >21){
-          	return "Tide";
+          	return "Tied";
       	}
       	else{
       	return "Bust";
@@ -189,7 +189,7 @@ var finalResultCheck = function(){
       	return "Win";
   	}
   	else if(pS===dS){
-      	return "Tide";
+      	return "Tied";
   	}
   	else{
       	return "Bust";
@@ -206,7 +206,7 @@ var finalResultCheck = function(){
 	dS = dealerHand.score();
 	if(pS > 21){
       	if( dS >21){
-          	return "TideOver";
+          	return "TiedOver";
       	}
       	else{
       	return "Bust";
