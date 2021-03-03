@@ -42,6 +42,8 @@ f
 f
 
 ## Database
+Created by Ahmad
+
 The first 5 lines of the [code](https://github.com/shekark642/P4Birds/blob/d37dc2ddc183bb0a178160710a1c647643a48984/view.py#L13-L18) are for creating the database, after executed this will create an [id, username, email, and password column class LoginForm & RegisterForm](https://github.com/shekark642/P4Birds/blob/d37dc2ddc183bb0a178160710a1c647643a48984/view.py#L25-L43) are built off of a module that was imported called FlaskForm these are simple forms that set quick constraints for login & signup forms. For starters, both Signup and Login app routes will need access to methods GET and POST in order to receive information front the database as well as adding to it. The Signup function simply takes the value inputted in each corresponding input field and later creates a new user after setting the different user specific variables to the values. The Login function checks the database of existing users by searching or querying through and validates whether the values inputted are valid and connected to a user. The dashboard function simply takes the information from the current user and extracts the username and uses a jinja variable to display it lastly, the logout function uses a similar library to log the user out and later redirect them because they are no longer logged in.
 
 ## HTML/CSS
