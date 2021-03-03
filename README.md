@@ -29,10 +29,15 @@
 # MAJOR TECHINALS
 
 ## Deployment and Production 
-- Created by Max
+Created by Max
+
 Documents that assisted me in the Deployment and Production setup
-Deployment
-Production
+
+[Deployment](http://nighthawkcoders.cf/lesson/pi-webserver/)
+
+[Production](http://nighthawkcoders.cf/lesson/pi-deploy/)
+
+For the initial process of getting the Intellij project onto the web. I obtained a machine called the Raspberry Pi which uses Linex and cloned my github repository onto my machine. From there, I tested the website to run on my local host network than throught the process of port forwarding I made the website avaliable on my public internet host know as my public ip address. Then, using the previous process, I created a virtual environment and installed servers to help run the website such as Nginx and Gunicorn. These process were simple to follow if you understood the instructions provided. 
 
 ## Javascript Games
 f
@@ -50,6 +55,9 @@ f
 f
 
 ## Leaderboards
+f
+
+## Tech Talks, College Board, and Individually Researched Topics
 f
 
 # About The Project
