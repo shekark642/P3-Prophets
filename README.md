@@ -38,10 +38,10 @@ For the initial process of getting the Intellij project onto the web. I obtained
 ## Javascript Games
 
 ### Blackjack
-We created a simple blackjack card game which gives the user a probability of winning the match. The player will be playing against a AI dealer that is fully working. The game will be played just as how most regular blackjack games are. As well, the wins and losses are displayed on the screen to keep track of the player's winnings and losings.
+We created a simple blackjack card game which gives the user a probability of winning the match. The player will be playing against a AI dealer that is fully working. We used [javascript](https://github.com/shekark642/P4Birds/blob/main/static/21game.js) and [html](https://github.com/shekark642/P4Birds/blob/main/templates/blackjack.html) code to develop our game. With the javascript, we made multiple functions such as generating the [cards](https://github.com/shekark642/P4Birds/blob/338e4194c4fe753ffad10a631435293f1fd696c0/static/21game.js#L53-L66) and making the game fucntion normally with all the appropriate [buttons](https://github.com/shekark642/P4Birds/blob/338e4194c4fe753ffad10a631435293f1fd696c0/static/21game.js#L1-L43).
 
 ### War
-We are going to create a card game where the user can play war against an ai bot, where both players randomly draw a card from a deck. After the player draws a card, we give them the probability of him winning the game. The player plays their card and the ai bot plays a random card, and the higher valued card wins. We will have animation for the player as they play the game. For the home page, it can be an entrance to a fake online casino for visual effect.
+We create a card game where the user can play war against an ai bot, where both players [randomly draw a card from a deck](https://github.com/shekark642/P4Birds/blob/338e4194c4fe753ffad10a631435293f1fd696c0/static/warObjects.js#L163-L178). After the player draws a card, the probability of winning the game will be at [random](https://github.com/shekark642/P4Birds/blob/338e4194c4fe753ffad10a631435293f1fd696c0/static/war.js#L38-L47). The player plays their card and the ai bot plays a random card, and the higher valued card [wins](https://github.com/shekark642/P4Birds/blob/338e4194c4fe753ffad10a631435293f1fd696c0/static/war.js#L67-L86). As the same as the blackjack game, we use [javascript](https://github.com/shekark642/P4Birds/blob/main/static/war.js) and [html](https://github.com/shekark642/P4Birds/blob/main/templates/war.html) and make them work with each other to produce the final product which is the war game.
 
 ## Web Api
 f
@@ -76,10 +76,6 @@ Our scrum board holds all of our progress throughout the creation period. We hav
 
 # Contributes 
 Team Contributes will be found [HERE](https://github.com/shekark642/P4Birds/graphs/contributors), this shows each contributer, with data of their contributes such as detail of commit, quantity of commit, and time of commit
-
-# Games
-
-
 
 # Contact
 [Max Vukovich](https://github.com/MaxVukovich)
