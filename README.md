@@ -61,7 +61,11 @@ The Easter Egg on our project is a secret page that contains our [Linkedin Page]
 f
 
 ## Tech Talks, College Board, and Individually Researched Topics
-f
+Tech talks that were beneifical and we used:
+
+[Ms Trish's Leaderboard Model with Javascript](https://github.com/TrishZwei/python-leaderboard). With Trish's Model, we were open to ways to connect a leaderboard to a javascript game.
+[Mr. Mortensen's Data Verification CRUD Model Code](http://nighthawkcoders.cf/pythondb/#FE-HTML). With Mortensen's CRUD Model code, we were able to figure out and use the basics of forming a leaderboard database.
+
 
 # About The Project
 [![name](https://raw.githubusercontent.com/shekark642/P4Birds/main/static/images/card%20game%20main%20page.PNG)](http://104.2.84.172/)
