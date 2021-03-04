@@ -50,7 +50,7 @@ The first 5 lines of the [code](https://github.com/shekark642/P4Birds/blob/d37dc
 f
 
 ## Easter Egg
-f
+The Easter Egg on our project is a secret page that can be accessed from the secret button underneath the generate button in the random fact generator section on our home page. The code for the easter egg can be found here. [Button](https://github.com/shekark642/P4Birds/blob/879e02f71c478fa0ae9fa744ac6925df4f63bd2e/templates/index.html#L83), [Blueprint](https://github.com/shekark642/P4Birds/blob/main/easteregg/__init__.py), [Python](https://github.com/shekark642/P4Birds/blob/main/easteregg/view.py)
 
 ## Leaderboards
 f
@@ -79,9 +79,6 @@ We created a simple blackjack card game which gives the user a probability of wi
 
 ## War
 We are going to create a card game where the user can play war against an ai bot, where both players randomly draw a card from a deck. After the player draws a card, we give them the probability of him winning the game. The player plays their card and the ai bot plays a random card, and the higher valued card wins. We will have animation for the player as they play the game. For the home page, it can be an entrance to a fake online casino for visual effect.
-
-# Easter Egg
-The Easter Egg on our project is a secret page that can be accessed from the secret button underneath the generate button in the random fact generator section on our home page. The code for the easter egg can be found here. [Button](https://github.com/shekark642/P4Birds/blob/879e02f71c478fa0ae9fa744ac6925df4f63bd2e/templates/index.html#L83), [Blueprint](https://github.com/shekark642/P4Birds/blob/main/easteregg/__init__.py), [Python](https://github.com/shekark642/P4Birds/blob/main/easteregg/view.py)
 
 # Contact
 [Max Vukovich](https://github.com/MaxVukovich)
