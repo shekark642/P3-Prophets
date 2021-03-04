@@ -36,7 +36,12 @@ Documents that assisted me in the [Deployment](http://nighthawkcoders.cf/lesson/
 For the initial process of getting the Intellij project onto the web. I obtained a machine called the Raspberry Pi which uses Linex and cloned my github repository onto my machine. From there, I tested the website to run on my local host network than throught the process of port forwarding I made the website avaliable on my public internet host know as my public ip address. Then, using the previous process, I created a virtual environment and installed servers to help run the website such as Nginx and Gunicorn. These process were simple to follow if you understood the instructions provided. 
 
 ## Javascript Games
-f
+
+### Blackjack
+We created a simple blackjack card game which gives the user a probability of winning the match. The player will be playing against a AI dealer that is fully working. The game will be played just as how most regular blackjack games are. As well, the wins and losses are displayed on the screen to keep track of the player's winnings and losings.
+
+### War
+We are going to create a card game where the user can play war against an ai bot, where both players randomly draw a card from a deck. After the player draws a card, we give them the probability of him winning the game. The player plays their card and the ai bot plays a random card, and the higher valued card wins. We will have animation for the player as they play the game. For the home page, it can be an entrance to a fake online casino for visual effect.
 
 ## Web Api
 f
@@ -50,7 +55,7 @@ The first 5 lines of the [code](https://github.com/shekark642/P4Birds/blob/d37dc
 f
 
 ## Easter Egg
-The Easter Egg on our project is a secret page that can be accessed from the secret button underneath the generate button in the random fact generator section on our home page. The code for the easter egg can be found here. [Button](https://github.com/shekark642/P4Birds/blob/879e02f71c478fa0ae9fa744ac6925df4f63bd2e/templates/index.html#L83), [Blueprint](https://github.com/shekark642/P4Birds/blob/main/easteregg/__init__.py), [Python](https://github.com/shekark642/P4Birds/blob/main/easteregg/view.py)
+The Easter Egg on our project is a secret page that contains our [Linkedin Page](http://104.2.84.172/easteregg1?) that can be accessed from the secret button underneath the generate button in the random fact generator section on our home page. The code for the easter egg can be found here. [Button](https://github.com/shekark642/P4Birds/blob/879e02f71c478fa0ae9fa744ac6925df4f63bd2e/templates/index.html#L83), [Blueprint](https://github.com/shekark642/P4Birds/blob/main/easteregg/__init__.py), [Python](https://github.com/shekark642/P4Birds/blob/main/easteregg/view.py)
 
 ## Leaderboards
 f
@@ -74,11 +79,7 @@ Team Contributes will be found [HERE](https://github.com/shekark642/P4Birds/grap
 
 # Games
 
-## Blackjack
-We created a simple blackjack card game which gives the user a probability of winning the match. The player will be playing against a AI dealer that is fully working. The game will be played just as how most regular blackjack games are. As well, the wins and losses are displayed on the screen to keep track of the player's winnings and losings.
 
-## War
-We are going to create a card game where the user can play war against an ai bot, where both players randomly draw a card from a deck. After the player draws a card, we give them the probability of him winning the game. The player plays their card and the ai bot plays a random card, and the higher valued card wins. We will have animation for the player as they play the game. For the home page, it can be an entrance to a fake online casino for visual effect.
 
 # Contact
 [Max Vukovich](https://github.com/MaxVukovich)
