@@ -64,12 +64,17 @@ f
 Tech talks that were beneifical and we used:
 
 [Ms Trish's Leaderboard Model with Javascript](https://github.com/TrishZwei/python-leaderboard). With Trish's Model, we were open to ways to connect a leaderboard to a javascript game.
+
 [Mr. Mortensen's Data Verification CRUD Model Code](http://nighthawkcoders.cf/pythondb/#FE-HTML). With Mortensen's CRUD Model code, we were able to figure out and use the basics of forming a leaderboard database.
 
 College Board 
+
 [Lists](https://docs.google.com/presentation/d/1AtDJ_zR5TxFM7rBOkQVeBDpbpPq29ugsUz6i9Qgxfns/edit?usp=sharing): This college board topic was useful to the creation of our family lists and other artifacts such as leaderboard organization.
+
 [The Internet](https://docs.google.com/presentation/d/1uuj4ZT2CKtE1uEBfdMO_ZDLq3NfDSm2fPuaU1FHmfgc/edit?usp=sharing): This college board topic was useful to assisting the Runtime team to be able to deploy and produce our website.
+
 [Algorithms](https://apclassroom.collegeboard.org/103/home?apd=2ghb6iux35): Useful algorithmic video used in website creation.
+
 [Procedures](https://apclassroom.collegeboard.org/103/home?apd=8ledrnnh70): Useful procedure video used in website creation.
 
 # About The Project
