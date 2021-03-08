@@ -38,13 +38,19 @@ For the initial process of getting the Intellij project onto the web. I obtained
 ## Javascript Games
 
 ### Blackjack
+Created by Ryan
+
 We created a simple blackjack card game which gives the user a probability of winning the match. The player will be playing against a AI dealer that is fully working. We used [javascript](https://github.com/shekark642/P4Birds/blob/main/static/21game.js) and [html](https://github.com/shekark642/P4Birds/blob/main/templates/blackjack.html) code to develop our game. With the javascript, we made multiple functions such as generating the [cards](https://github.com/shekark642/P4Birds/blob/338e4194c4fe753ffad10a631435293f1fd696c0/static/21game.js#L53-L66) and making the game fucntion normally with all the appropriate [buttons](https://github.com/shekark642/P4Birds/blob/338e4194c4fe753ffad10a631435293f1fd696c0/static/21game.js#L1-L43).
 
 ### War
+Created by Ryan
+
 We create a card game where the user can play war against an ai bot, where both players [randomly draw a card from a deck](https://github.com/shekark642/P4Birds/blob/338e4194c4fe753ffad10a631435293f1fd696c0/static/warObjects.js#L163-L178). After the player draws a card, the probability of winning the game will be at [random](https://github.com/shekark642/P4Birds/blob/338e4194c4fe753ffad10a631435293f1fd696c0/static/war.js#L38-L47). The player plays their card and the ai bot plays a random card, and the higher valued card [wins](https://github.com/shekark642/P4Birds/blob/338e4194c4fe753ffad10a631435293f1fd696c0/static/war.js#L67-L86). As the same as the blackjack game, we use [javascript](https://github.com/shekark642/P4Birds/blob/main/static/war.js) and [html](https://github.com/shekark642/P4Birds/blob/main/templates/war.html) and make them work with each other to produce the final product which is the war game.
 
 ## Web Api
-f
+Created by Max
+
+
 
 ## Database
 Created by Ahmad
@@ -52,13 +58,15 @@ Created by Ahmad
 The first 5 lines of the [code](https://github.com/shekark642/P4Birds/blob/d37dc2ddc183bb0a178160710a1c647643a48984/view.py#L13-L18) are for creating the database, after executed this will create an [id, username, email, and password column class LoginForm & RegisterForm](https://github.com/shekark642/P4Birds/blob/d37dc2ddc183bb0a178160710a1c647643a48984/view.py#L25-L43) are built off of a module that was imported called FlaskForm these are simple forms that set quick constraints for login & signup forms. For starters, both Signup and Login app routes will need access to methods GET and POST in order to receive information front the database as well as adding to it. The Signup function simply takes the value inputted in each corresponding input field and later creates a new user after setting the different user specific variables to the values. The Login function checks the database of existing users by searching or querying through and validates whether the values inputted are valid and connected to a user. The dashboard function simply takes the information from the current user and extracts the username and uses a jinja variable to display it lastly, the logout function uses a similar library to log the user out and later redirect them because they are no longer logged in.
 
 ## HTML/CSS
-f
+Created by Shekar
 
 ## Easter Egg
+Created by Ahmad
 The Easter Egg on our project is a secret page that contains our [Linkedin Page](http://104.2.84.172/easteregg1?) that can be accessed from the secret button underneath the generate button in the random fact generator section on our home page. The code for the easter egg can be found here. [Button](https://github.com/shekark642/P4Birds/blob/879e02f71c478fa0ae9fa744ac6925df4f63bd2e/templates/index.html#L83), [Blueprint](https://github.com/shekark642/P4Birds/blob/main/easteregg/__init__.py), [Python](https://github.com/shekark642/P4Birds/blob/main/easteregg/view.py)
 
 ## Leaderboards
-f
+Created by Shekar
+
 
 ## Tech Talks, College Board, and Individually Researched Topics
 Tech talks that were beneifical and we used:
