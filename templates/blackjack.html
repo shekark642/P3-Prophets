@@ -49,9 +49,33 @@
 </div>
 <div class="pscore"></div>
 <div class="gameConsole" style="visibility: hidden;">
-    <a href="javascript:void(0);" id="hit">Hit!</a>
-    <a style="width: 72px; position:relative" href="javascript:void(0);" id="stand">Stand!</a>
+    <a href="javascript:void(0);" id="hit"; style= "position:relative; left:-60px;" >Hit!</a>
+    <a style= "position:relative; left:-58px; width: 72px; position:relative" href="javascript:void(0);" id="stand">Stand!</a>
 </div>
+
+ <style>
+ .pscore{
+    position: relative;
+    background-color: black;
+    height: 30px;
+    width: 100px;
+    margin: auto;
+    bottom: 80px;
+    border-radius: 4px;
+    -moz-box-shadow: 0px 9px 25px rgba(0,0,0,.7);
+    box-shadow: 0px 9px 25px rgba(0,0,0,.7);
+
+}
+
+.pscore p{
+    padding-top: 5px;
+    text-align: center;
+    color: yellow;
+    font-weight: 700;
+    font-family: "Poppins-Medium.ttf";
+    font-size: 1.2em;
+}
+</style>
 
 {% endblock %}
 </body>

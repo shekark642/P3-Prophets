@@ -42,9 +42,6 @@ class RegisterForm(FlaskForm):
     username = StringField('username', validators=[InputRequired(), Length(min=4, max=15)])
     password = PasswordField('password', validators=[InputRequired(), Length(min=8, max=80)])
 
-
-
-# connects default URL of server to a python function
 @app.route('/')
 def index():
     #Gets the api data from web
@@ -52,7 +49,6 @@ def index():
     data = j.loads(x.content) #Fetch rest api data
     fact = data.get("text") #Fetch rest api data
     return render_template("index.html", fact=fact) #Fetch rest api data
-
 
 @app.route('/leaderboards')
 def leaderboards():
