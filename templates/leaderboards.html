@@ -1,3 +1,4 @@
+
 <!DOCTYPE HTML>
 {% extends "base.html" %}
 {% block body %}
@@ -11,10 +12,10 @@
     </tr>
     </thead>
     <tbody>
-    <tr>
+    <tr class="active-row">
         <td>Irfan</td>
         <td>6400</td>
-        <td>4</td>
+        <td>2</td>
 
     </tr>
     <tr class="active-row">
@@ -83,4 +84,75 @@
 
 </style>
 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1 id="nametext">Name</h1>
+<form action="/form" method="post">
+    <input id="category" type="text" placeholder="Enter your name"name="Title"></input>
+    <h1 id="categorytext">Game</h1>
+    <input id="category" type="text" placeholder="Enter the game you played" name="Category"></input>
+    <h1 id="categorytext">Wins</h1>
+    <input id="category" type="text" placeholder="Number of wins you have" name="Description"></input>
+
+    <input type="submit" id="submit"></input>
+</form>
+</body>
+<style>
+
+    #category{
+    font-weight: bold;
+    color:turquoise;
+    background-color:black;
+
+    }
+
+    #submit{
+    position: relative;
+    border-color: turquoise;
+    border-width: 9px;
+    padding:1%;
+    margin-top:0%;
+    margin-left:15%;
+    font-size: 22px;
+    color: black;
+    submit: white;
+    text-color: black;
+    font-weight: bold;
+
+   }
+    #nametext{
+    text-decoration: underline;
+    position: relative;
+    padding:1%;
+    margin-top:1%;
+    color: turquoise;
+    name-text: turquoise;
+    text-color: turquoise;
+
+    }
+    #categorytext{
+    text-decoration: underline;
+    position: relative;
+    padding:1%;
+    margin-top:1%;
+    color: turquoise;
+    name-text: turquoise;
+    text-color: turquoise;
+
+    }
+
+
+    </style>
+
 {% endblock %}
+
+
+
+
+
+
+
