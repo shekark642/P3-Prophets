@@ -76,6 +76,10 @@ The first 5 lines of the [code](https://github.com/shekark642/P4Birds/blob/d37dc
 ## HTML/CSS
 Created by Shekar
 
+Full [TEMPLATES FOLDER WITH ALL HTML FILES](https://github.com/shekark642/P4Birds/tree/main/templates)
+
+We created multiple html files that reside in our templates folder. Our [css](https://github.com/shekark642/P4Birds/blob/081deeef7d0a0d6e6d6aa9a06aa58c0f34117314/templates/index.html#L162-L246) has a common yellow white theme with our html being formatted in sections. Most of our html pages are simple and can reconcile with other languages such as our [javascript games](https://github.com/shekark642/P4Birds/blob/main/templates/blackjack.html) and [databases](https://github.com/shekark642/P4Birds/blob/main/templates/login.html). Other pages are pure html with either embedded css or seperate file css such as our [easter egg page](https://github.com/shekark642/P4Birds/blob/main/templates/easteregg.html) with paragraph text.
+
 ## Easter Egg
 Created by Ahmad
 
@@ -88,7 +92,11 @@ The Easter Egg on our project is a secret page that contains our [Linkedin Page]
 ## Leaderboards
 Created by Shekar
 
-Live [HERE]()
+Live [HERE](http://104.2.84.172/leaderboards)
+
+Full Code [HTML](https://github.com/shekark642/P4Birds/blob/main/templates/leaderboards.html) [FORM](https://github.com/shekark642/P4Birds/blob/main/templates/showleaderboard.html)
+
+Our leaderboard page has 2 steps in the making. We have a front end html to store the data in the leaderboard and the back end form to submit the data into the leaderboard. The front end leaderboard is using a [table class that uses threads](https://github.com/shekark642/P4Birds/blob/081deeef7d0a0d6e6d6aa9a06aa58c0f34117314/templates/leaderboards.html#L5-L40) and [style text](https://github.com/shekark642/P4Birds/blob/081deeef7d0a0d6e6d6aa9a06aa58c0f34117314/templates/leaderboards.html#L42-L82) to format and color the leaderboard. Then we use a seperate html file to [create the form](https://github.com/shekark642/P4Birds/blob/081deeef7d0a0d6e6d6aa9a06aa58c0f34117314/templates/showleaderboard.html#L4-L13) to [input the data](https://github.com/shekark642/P4Birds/blob/081deeef7d0a0d6e6d6aa9a06aa58c0f34117314/templates/leaderboards.html#L87-L103) into the front end leaderboard.
 
 ## Tech Talks, College Board, and Individually Researched Topics
 Tech talks that were beneifical and we used:
