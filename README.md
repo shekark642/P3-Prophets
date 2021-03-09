@@ -50,7 +50,7 @@ We create a card game where the user can play war against an ai bot, where both 
 ## Web Api
 Created by Max
 
-
+For our Web Api, we used a simple random fact generator that could fit well with out [homepage](https://github.com/shekark642/P4Birds/blob/39ce063b4a27e36930f362c26ff43e7f2c9e74f4/templates/index.html#L76-L83). The Api gets the [plain data from a random fact generator using json](https://github.com/shekark642/P4Birds/blob/39ce063b4a27e36930f362c26ff43e7f2c9e74f4/view.py#L48) and with using [json, it transfers the data into a variable](https://github.com/shekark642/P4Birds/blob/39ce063b4a27e36930f362c26ff43e7f2c9e74f4/view.py#L49) and with [json loads](https://github.com/shekark642/P4Birds/blob/39ce063b4a27e36930f362c26ff43e7f2c9e74f4/view.py#L49) it transfers the [data into html text](https://github.com/shekark642/P4Birds/blob/39ce063b4a27e36930f362c26ff43e7f2c9e74f4/view.py#L50-L51) that is inputed on the [homepage](https://github.com/shekark642/P4Birds/blob/39ce063b4a27e36930f362c26ff43e7f2c9e74f4/templates/index.html#L76-L83). To use the Api, simply click the Generate button which is a [Refresh button](https://github.com/shekark642/P4Birds/blob/39ce063b4a27e36930f362c26ff43e7f2c9e74f4/templates/index.html#L80) that refreshes the page.
 
 ## Database
 Created by Ahmad
