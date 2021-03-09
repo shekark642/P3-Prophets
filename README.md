@@ -119,15 +119,18 @@ College Board
 [![name](https://raw.githubusercontent.com/shekark642/P4Birds/main/static/images/card%20game%20main%20page.PNG)](http://104.2.84.172/)
 Once you are on the website, navigate to the menu at the top and head either to the Blackjack game or War game. For the blackjack game, select the Start button and then continue to play the game. If you do not remember the rules, scroll down to the blackjack section of this Readme. For the war game, select the Start button and continue to Flip. The first to 10 wins. If you do not remember the rules, scroll down to the war section of this Readme. If you would like to review our main page, we have other discriptions of the orgins of these games and other artifacts.
 
+# [Commerical](https://www.youtube.com/watch?v=174g-PQlPJ0)
+Our commerical is an exciting video into exploring our website.
+
 # Getting Started
-Use this runtime link to get started
+Use this runtime link to get started.
 http://104.2.84.172/
 
 # [Scrum Board](https://github.com/shekark642/P4Birds/projects/1?fullscreen=true)
 Our scrum board holds all of our progress throughout the creation period. We have "tickets" that track our process such as items to do, in progress, and done.
 
 # Contributes 
-Team Contributes will be found [HERE](https://github.com/shekark642/P4Birds/graphs/contributors), this shows each contributer, with data of their contributes such as detail of commit, quantity of commit, and time of commit
+Team Contributes will be found [HERE](https://github.com/shekark642/P4Birds/graphs/contributors), this shows each contributer, with data of their contributes such as detail of commit, quantity of commit, and time of commit.
 
 # Contact
 [Max Vukovich](https://github.com/MaxVukovich)
