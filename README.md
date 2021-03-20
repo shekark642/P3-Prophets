@@ -13,6 +13,7 @@
       <ul>
           <li><a href="#getting-started">Getting Started</a><li> 
           <li><a href="#scrum-board">Scrum Board</a></li>
+          <li><a href="#commercial">Commercial</a></li>
           <li><a href="#contributes">Contributes</a></li>
           <li><a href="#games">Games</a></li>
           <li><a href="#easter-egg">Easter Egg</a></li>
@@ -76,6 +77,10 @@ The first 5 lines of the [code](https://github.com/shekark642/P4Birds/blob/d37dc
 ## HTML/CSS
 Created by Shekar
 
+Full [TEMPLATES FOLDER WITH ALL HTML FILES](https://github.com/shekark642/P4Birds/tree/main/templates)
+
+We created multiple html files that reside in our templates folder. Our [css](https://github.com/shekark642/P4Birds/blob/081deeef7d0a0d6e6d6aa9a06aa58c0f34117314/templates/index.html#L162-L246) has a common yellow white theme with our html being formatted in sections. Most of our html pages are simple and can reconcile with other languages such as our [javascript games](https://github.com/shekark642/P4Birds/blob/main/templates/blackjack.html) and [databases](https://github.com/shekark642/P4Birds/blob/main/templates/login.html). Other pages are pure html with either embedded css or seperate file css such as our [easter egg page](https://github.com/shekark642/P4Birds/blob/main/templates/easteregg.html) with paragraph text.
+
 ## Easter Egg
 Created by Ahmad
 
@@ -88,7 +93,11 @@ The Easter Egg on our project is a secret page that contains our [Linkedin Page]
 ## Leaderboards
 Created by Shekar
 
-Live [HERE]()
+Live [HERE](http://104.2.84.172/leaderboards)
+
+Full Code [HTML](https://github.com/shekark642/P4Birds/blob/main/templates/leaderboards.html) [FORM](https://github.com/shekark642/P4Birds/blob/main/templates/showleaderboard.html)
+
+Our leaderboard page has 2 steps in the making. We have a front end html to store the data in the leaderboard and the back end form to submit the data into the leaderboard. The front end leaderboard is using a [table class that uses threads](https://github.com/shekark642/P4Birds/blob/081deeef7d0a0d6e6d6aa9a06aa58c0f34117314/templates/leaderboards.html#L5-L40) and [style text](https://github.com/shekark642/P4Birds/blob/081deeef7d0a0d6e6d6aa9a06aa58c0f34117314/templates/leaderboards.html#L42-L82) to format and color the leaderboard. Then we use a seperate html file to [create the form](https://github.com/shekark642/P4Birds/blob/081deeef7d0a0d6e6d6aa9a06aa58c0f34117314/templates/showleaderboard.html#L4-L13) to [input the data](https://github.com/shekark642/P4Birds/blob/081deeef7d0a0d6e6d6aa9a06aa58c0f34117314/templates/leaderboards.html#L87-L103) into the front end leaderboard.
 
 ## Tech Talks, College Board, and Individually Researched Topics
 Tech talks that were beneifical and we used:
@@ -111,15 +120,18 @@ College Board
 [![name](https://raw.githubusercontent.com/shekark642/P4Birds/main/static/images/card%20game%20main%20page.PNG)](http://104.2.84.172/)
 Once you are on the website, navigate to the menu at the top and head either to the Blackjack game or War game. For the blackjack game, select the Start button and then continue to play the game. If you do not remember the rules, scroll down to the blackjack section of this Readme. For the war game, select the Start button and continue to Flip. The first to 10 wins. If you do not remember the rules, scroll down to the war section of this Readme. If you would like to review our main page, we have other discriptions of the orgins of these games and other artifacts.
 
+# [Commerical](https://www.youtube.com/watch?v=174g-PQlPJ0)
+Our commerical is an exciting video into exploring our website.
+
 # Getting Started
-Use this runtime link to get started
+Use this runtime link to get started.
 http://104.2.84.172/
 
 # [Scrum Board](https://github.com/shekark642/P4Birds/projects/1?fullscreen=true)
 Our scrum board holds all of our progress throughout the creation period. We have "tickets" that track our process such as items to do, in progress, and done.
 
 # Contributes 
-Team Contributes will be found [HERE](https://github.com/shekark642/P4Birds/graphs/contributors), this shows each contributer, with data of their contributes such as detail of commit, quantity of commit, and time of commit
+Team Contributes will be found [HERE](https://github.com/shekark642/P4Birds/graphs/contributors), this shows each contributer, with data of their contributes such as detail of commit, quantity of commit, and time of commit.
 
 # Contact
 [Max Vukovich](https://github.com/MaxVukovich)
